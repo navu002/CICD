@@ -2,6 +2,6 @@ version: '3.8'
 
 services:
   web:
-    // image: lakshya545/mydonationflask:latest
+    image: ankitrawat3987/mydonation:latest
     ports:
       - "5000:5000"
